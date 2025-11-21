@@ -1,4 +1,4 @@
-# Walrus Storage Demo
+# Walrus Storage
 
 A simple Next.js application for uploading and downloading files using the Walrus decentralized storage network.
 
