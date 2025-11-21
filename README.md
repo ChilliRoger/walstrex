@@ -188,6 +188,4 @@ npm start
 - [Next.js Documentation](https://nextjs.org/docs)
 - [GitHub Repository](https://github.com/ChilliRoger/walstrex)
 
-## License
 
-MIT
